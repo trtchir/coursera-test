@@ -11,7 +11,7 @@ main {
 }
 
 section {
-    height: 300px;
+    height: 500px;
     margin-bottom: 1em;
     width: 100%;
     border: 2px solid white;    
@@ -29,7 +29,6 @@ h1 {
 }
 
 h2 {
-    text-align: center;
     margin-top: auto;
 }
 
